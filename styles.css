@@ -1,14 +1,12 @@
 #container {
     display: flex;
-
     flex-wrap: wrap;
-    border: 6px solid chartreuse;
+    border: 5px solid black;
     width: 960px;
     height: 960px;
 }
 
 .box {
-    border: 1px solid rebeccapurple;
     flex-grow: 1;
     box-sizing: border-box;
 }
